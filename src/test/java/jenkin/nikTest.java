@@ -6,6 +6,8 @@ public class nikTest {
 	@Test
 	public void pooja() {
 		System.out.println("hi");
+		
+		
 	}
 
 }
